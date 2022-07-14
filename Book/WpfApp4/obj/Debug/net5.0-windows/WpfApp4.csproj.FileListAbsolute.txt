@@ -1,0 +1,72 @@
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\BookView.g.cs
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\App.baml
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\BookView.baml
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\Qara_nj17\source\repos\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.exe
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.deps.json
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.json
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.runtimeconfig.dev.json
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\Dapper.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\BookView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\MainView.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4_MarkupCompile.lref
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\App.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\BookView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\Views\MainView.baml
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.g.resources
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.AssemblyInfo.cs
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.CopyComplete
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\ref\WpfApp4.dll
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.pdb
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.genruntimeconfig.cache
+C:\Users\tnqar\OneDrive\Рабочий стол\WpfApp4\WpfApp4\obj\Debug\net5.0-windows\WpfApp4.csproj.AssemblyReference.cache
